@@ -10,6 +10,7 @@ You can use the [editor on GitHub](https://github.com/weiminsong/SONGGROUP.githu
 ### Group members
 
 Weimin Song (Group leader, Professor)
+
 Hao Liang (Graduate student)
 ......
 
@@ -18,5 +19,7 @@ Hao Liang (Graduate student)
 ### Contact information
 
 Office: 314 Physics Building, Jilin University, Changchun
+
 Email: weimin.song@stfc.ac.uk
+
 Phone: 15201291914
