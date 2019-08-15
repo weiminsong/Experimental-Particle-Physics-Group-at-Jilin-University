@@ -4,8 +4,9 @@ You can use the [editor on GitHub](https://github.com/weiminsong/SONGGROUP.githu
 
 ### Research
 
-1. Phyiscs analysis
+1. Physics analysis at BESIII (and at Large Hadron Collider, will join later)
 2. Silicon detector development
+3. Study the physics potential for Circular Electron-Positrion Collider (CEPC)
 
 ### Group members
 
