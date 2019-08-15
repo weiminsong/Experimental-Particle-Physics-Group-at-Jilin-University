@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Experimental Particle Physics Group at Jilin University
 
 You can use the [editor on GitHub](https://github.com/weiminsong/SONGGROUP.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
