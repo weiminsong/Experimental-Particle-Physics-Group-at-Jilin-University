@@ -14,7 +14,7 @@ You can use the [editor on GitHub](https://github.com/weiminsong/SONGGROUP.githu
 
 [Hao Liang](https://github.com/weiminsong/SONGGROUP.github.io/edit/master/liangh.md) (Graduate student)
 
-[Liao Yipu](https://github.com/liaoyp0615/liaoyp0615.github.io) (Undergraduate student)
+[Liao Yipu](https://liaoyp0615.github.io) (Undergraduate student)
 
 ......
 
