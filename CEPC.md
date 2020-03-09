@@ -4,7 +4,7 @@
 
 
 
-[**Research**](CEPCresearch.md)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[**PDF**](CEPCpdf.md)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[**Guidances for beginners**](CEPCguide.md)
+[**Research**](CEPC/CEPCresearch.md)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[**PDF**](CEPC/CEPCpdf.md)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[**Guidances for beginners**](CEPC/CEPCguide.md)
 
 
 
