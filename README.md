@@ -10,11 +10,11 @@ You can use the [editor on GitHub](https://github.com/weiminsong/SONGGROUP.githu
 
 ### Group members
 
-Weimin Song (Group leader, Professor)
+[Weimin Song](https://github.com/weiminsong/SONGGROUP.github.io/edit/master/songwm.md) (Group leader, Professor)
 
-Hao Liang (Graduate student)
+[Hao Liang](https://github.com/weiminsong/SONGGROUP.github.io/edit/master/liangh.md) (Graduate student)
 
-Liao Yipu (Undergraduate student)
+[Liao Yipu](https://github.com/liaoyp0615/liaoyp0615.github.io) (Undergraduate student)
 
 ......
 
