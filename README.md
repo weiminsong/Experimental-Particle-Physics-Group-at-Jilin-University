@@ -13,6 +13,8 @@ You can use the [editor on GitHub](https://github.com/weiminsong/SONGGROUP.githu
 Weimin Song (Group leader, Professor)
 
 Hao Liang (Graduate student)
+
+Liao Yipu (Undergraduate student)
 ......
 
 
