@@ -6,16 +6,13 @@
 
 
 
-[TOC]
 
-
-
-![图片1](C:\Users\Ann\Desktop\图片2.png)
+![图片1](CEPC/Useful files/1.png)
 
 ​																	**分析的总流程图**
 
 
-
+<br/><br/>
 #### 一.  准备工作(Requirement)
 
 ##### 1. 各项软件位置
@@ -27,7 +24,7 @@
 [ROOT](https://root.cern/doc/v618/) ：ROOT文件工具
 
 
-
+<br/><br/>
 ##### 2. 各个资源网站
 
 [高能所计算环境使用手册](http://afsapply.ihep.ac.cn/quick/) ：一些磁盘位置，AFS账号管理
@@ -45,7 +42,7 @@
 
 
 
-
+<br/><br/><br/>
 #### 二. 事例产生(Event Generation)
 
 ##### 1. 理论分析
@@ -54,6 +51,7 @@
 
 衰变道分析是整个过程最重要的一步。需要得到所有可能的衰变道，并大致绘制出费曼图。为下面的本底分析		提供来源。
 
+<br/>
 ###### 2)...
 
 
@@ -63,7 +61,7 @@
 
 
 
-
+<br/><br/>
 ##### 2. 产生子模拟(Generator)
 
 ###### 1) whizard输入
@@ -74,12 +72,12 @@
 
 
 
-
+<br/>
 
 下面是在IHEP服务器中运行whizard的详细过程：
 
 
-
+<br/>
 **下载WHIZARD：**
 
 ```shell
@@ -94,7 +92,7 @@
 ```
 
 
-
+<br/>
 **配置环境以及编译：**
 
 ```shell
@@ -103,7 +101,7 @@
 ```
 
 
-
+<br/>
 **选择输入文件：**
 
 ```shell
@@ -121,7 +119,7 @@
 ```
 
 
-
+<br/>
 **编译并运行whizard：** *<u>（首次运行）</u>*
 
 ```shell
@@ -146,7 +144,7 @@ Makefile	Makefile.in		whizard.in		whizard.prc		whizard.mdl		whizard
 ```
 
 
-
+<br/>
 **重新编译：**
 
 ```shell
@@ -168,7 +166,7 @@ Makefile	Makefile.in		whizard.in		whizard.prc		whizard.mdl		whizard
 
 
 
-
+<br/><br/>
 ###### 2) 探测器模拟
 
 用产生子产生一些四动量信息，然后传递到探测器里
@@ -178,7 +176,7 @@ Makefile	Makefile.in		whizard.in		whizard.prc		whizard.mdl		whizard
 
 
 
-
+<br/><br/>
 ##### 3. 事例选择
 
 利用初末态例子的动量分布、B和轻子不动质量和事例所含粒子数等，选择信号事例。
@@ -190,7 +188,7 @@ Makefile	Makefile.in		whizard.in		whizard.prc		whizard.mdl		whizard
 
 
 
-
+<br/><br/><br/>
 #### 三. 预筛选(Pre-filtering)
 
 预筛选大致步骤（杭州师范大学廖立波 2017）：
@@ -206,7 +204,7 @@ Makefile	Makefile.in		whizard.in		whizard.prc		whizard.mdl		whizard
 
 
 
-
+<br/><br/><br/>
 #### 四. 本底分析
 
 几种常用的本底扣除方法：
@@ -238,7 +236,7 @@ Makefile	Makefile.in		whizard.in		whizard.prc		whizard.mdl		whizard
 
 
 
-
+<br/><br/><br/>
 #### 五. 信号抽取
 
 经过本底扣除，信号事例数被一步步减少，最后得到我们所需要衰变道的信号事例。
@@ -248,7 +246,7 @@ Makefile	Makefile.in		whizard.in		whizard.prc		whizard.mdl		whizard
 
 
 
-
+<br/><br/><br/>
 #### 六. 分支比计算
 
 1. 分支比公式如下：
@@ -264,5 +262,5 @@ $$
 
 
 
-
+<br/><br/><br/>
 #### 七. 误差分析
