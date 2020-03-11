@@ -20,7 +20,7 @@ You can use the [editor on GitHub](https://github.com/weiminsong/SONGGROUP.githu
 [Hao Liang]() (Graduate student)
 
 <br/><br/>
-![liaoyp](pictures/liaoyp.jpg){:height="100px" width="60px"}
+![liaoyp](pictures/liaoyp.jpg){:height="100px" width="80px"}
 <br/>
 [Liao Yipu](https://liaoyp0615.github.io) (Undergraduate student)
 
