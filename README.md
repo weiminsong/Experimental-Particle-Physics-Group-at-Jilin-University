@@ -10,7 +10,7 @@ You can use the [editor on GitHub](https://github.com/weiminsong/SONGGROUP.githu
 
 ### Group members
 <br/>
-![weimin](pictures/weimin.jpg)
+![weimin](pictures/weimin.jpg){:height="120px" width="100px"}
 <br/>
 [Weimin Song]() (Group leader, Professor)
 
@@ -20,7 +20,7 @@ You can use the [editor on GitHub](https://github.com/weiminsong/SONGGROUP.githu
 [Hao Liang]() (Graduate student)
 
 <br/><br/>
-![liaoyp](pictures/liaoyp.jpg){:height="100px" width="80px"}
+![liaoyp](pictures/liaoyp.jpg){:height="120px" width="100px"}
 <br/>
 [Liao Yipu](https://liaoyp0615.github.io) (Undergraduate student)
 
