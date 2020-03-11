@@ -20,11 +20,24 @@ You can use the [editor on GitHub](https://github.com/weiminsong/SONGGROUP.githu
 [Hao Liang]() (Graduate student)
 
 <br/><br/>
+![wuxh](pictures/wuxh.jpg){:height="120px" width="100px"}
+<br/>
+[Xionghao Wu]() (Undergraduate student)
+
+<br/><br/>
 ![liaoyp](pictures/liaoyp.jpg){:height="120px" width="100px"}
 <br/>
-[Liao Yipu](https://liaoyp0615.github.io) (Undergraduate student)
+[Yipu Liao](https://liaoyp0615.github.io) (Undergraduate student)
 
+<br/><br/>
+![cuicx](pictures/cuicx.jpg){:height="120px" width="100px"}
+<br/>
+[Chuanxin Cui]() (Undergraduate student)
 
+<br/><br/>
+![yangjy](pictures/yangjy.jpg){:height="120px" width="100px"}
+<br/>
+[Jiayue yang]() (Undergraduate student)
 ......
 
 
