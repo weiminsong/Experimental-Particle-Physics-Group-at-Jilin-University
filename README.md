@@ -9,12 +9,21 @@ You can use the [editor on GitHub](https://github.com/weiminsong/SONGGROUP.githu
 3. Study the physics potential for Circular Electron-Positrion Collider, [CEPC](CEPC.md)
 
 ### Group members
+</br>
+![weimin](pictures/weimin.jpg)
+</br>
+[Weimin Song]() (Group leader, Professor)
 
-[Weimin Song](https://github.com/weiminsong/SONGGROUP.github.io/edit/master/songwm.md) (Group leader, Professor)
-
+</br></br>
+![liangh](pictures/liangh.jpg)
+</br>
 [Hao Liang]() (Graduate student)
 
+</br></br>
+![liaoyp](pictures/liaoyp.jpg)
+</br>
 [Liao Yipu](https://liaoyp0615.github.io) (Undergraduate student)
+
 
 ......
 
