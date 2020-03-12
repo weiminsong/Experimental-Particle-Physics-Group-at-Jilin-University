@@ -8,100 +8,103 @@ This is the webpage for Weimin Song's group.
 2. Silicon detector development
 3. Study the physics potential for Circular Electron-Positrion Collider, [CEPC](CEPC.md)
 
-</br>
+<br/>
 
-</br>
+<br/>
 
 ### Group members
 
-</br>
+<br/>
 
-![weimin](pictures/weimin.jpg){:height="120px" width="100px"}
+![weimin](pictures/weimin.jpg){:height="120px" width="100px"}  
 
-</br>
+<br/>
 
-[Weimin Song]() (Principal Investigator, Professor)
-
-
-
-</br>
-
-[Hao Liang]() (Graduate student)
+[Weimin Song]() (Principal Investigator, Professor)  
 
 
 
-</br>
+<br/>
 
-![wuxh](pictures/wuxh.jpg){:height="120px" width="100px"}
-
-</br>
-
-[Xionghao Wu](group/wuxhresearch.md) (Undergraduate student)
+[Hao Liang]() (Graduate student)  
 
 
 
-</br>
+<br/>
 
-![liaoyp](pictures/liaoyp.jpg){:height="120px" width="100px"}
+![wuxh](pictures/wuxh.jpg){:height="120px" width="100px"}  
 
-</br>
+<br/>
 
-[Yipu Liao](liaoyp0615.github.io) (Undergraduate student)
-
-
-
-</br>
-
-[Chuanxin Cui]() (Undergraduate student)
+[Xionghao Wu](group/wuxhresearch.md) (Undergraduate student)  
 
 
 
-</br>
+<br/>
 
-[Jiayue yang]() (Undergraduate student)
+![liaoyp](pictures/liaoyp.jpg){:height="120px" width="100px"}  
 
+<br/>
 
-
-</br>
-
-![lix](pictures/lix.jpg){:height="120px" width="100px"}
-
-</br>
-
-[Xiang Li](group/lixresearch.md) (Undergraduate student)
+[Yipu Liao](liaoyp0615.github.io) (Undergraduate student)  
 
 
 
-</br>
+<br/>
 
-![zhangy](pictures/zhangy.jpg){:height="120px" width="100px"}
-
-</br>
-
-[Yang Zhang](group/zhangyresearch.md) (Undergraduate student)
+[Chuanxin Cui]() (Undergraduate student)  
 
 
 
-</br>
+<br/>
 
-![dingzz](pictures/dingzz.jpg){:height="120px" width="100px"}
-
-</br>
-
-[Zhizhong Ding](group/dingzzresearch.md) (Undergraduate student)
+[Jiayue yang]() (Undergraduate student)  
 
 
 
-</br>
+<br/>
 
-[Xiaopeng Xie](group/xiexpresearch.md) (Undergraduate student)
+![lix](pictures/lix.jpg){:height="120px" width="100px"}  
+
+<br/>
+
+[Xiang Li](group/lixresearch.md) (Undergraduate student)  
+
+
+
+<br/>
+
+![zhangy](pictures/zhangy.jpg){:height="120px" width="100px"}  
+
+<br/>
+
+[Yang Zhang](group/zhangyresearch.md) (Undergraduate student)  
+
+
+
+<br/>
+
+![dingzz](pictures/dingzz.jpg){:height="120px" width="100px"}  
+
+<br/>
+
+[Zhizhong Ding](group/dingzzresearch.md) (Undergraduate student)  
+
+
+
+<br/>
+
+[Xiaopeng Xie](group/xiexpresearch.md) (Undergraduate student)  
+
+<br/>
+
 ......
 
 
 
-</br>
+<br/>
 
-</br>
+<br/>
 
 ### Contact information
 
