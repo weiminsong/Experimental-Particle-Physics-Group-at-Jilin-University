@@ -46,7 +46,7 @@ This is the webpage for Weimin Song's group.
 
 Office: 314 Physics Building, Jilin University, Changchun
 
-Email: weimin.song@stfc.ac.uk
+Email: weiminsong@jlu.edu.cn
 
 Phone: 15201291914
 
