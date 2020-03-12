@@ -2,7 +2,7 @@
 
 ## <center>Interests and Experience</center>
 
-##### Current project :
+### Current project :
 
 **BESIII, CGEM, Undergraduate thesis, Jilin University & IHEP**
 
@@ -10,9 +10,10 @@ Improvement for sampling efficiency of avalanche electrons in CGEM for BESIII.
 
 </br>
 
+</br>
 
 
-##### Previous project : 
+### Previous project : 
 
 **NEXT experiment (Neutrinoless Double Beta Decay). Visiting Research Fellow at Harvard University. Prof. Roxanne Guenette**
 
@@ -26,30 +27,37 @@ Simulation and reconstruction for weak interactions in superK detector. Event re
 
 </br>
 
+</br>
 
 
-##### Theoretical Research :
+### Theoretical Research :
 
 See-saw mechanism. Soliton solutions of Yang-Mills theory. Properties of angular momentum for gauge fields. Witten & BPS monopoles. (Prof. Haijun Wang, Jilin University)
 
+</br>
 
+</br>
 
-##### Project & course work: 
+### Project & course work: 
 
 Matter effect for sterile neutrinos for MiniBooNE. (Prof. Michael Wilking, Stony Brook University)
 		Topological string, Amplitude calculation & Compatification. AdS-CFT correspondence. (Prof. Warren Siegel, Stony Brook University)
 
-</br></br>
+</br>
+
+</br>
 
 
 
-##### Publications :
+### Publications :
 
-</br></br>
+</br>
+
+</br>
 
 
 
-##### Contact info :
+### Contact info :
 
 [xiangli@ucsd.edu](xiangli@ucsd.edu)
 
