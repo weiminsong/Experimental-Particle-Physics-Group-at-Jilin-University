@@ -8,39 +8,77 @@ This is the webpage for Weimin Song's group.
 2. Silicon detector development
 3. Study the physics potential for Circular Electron-Positrion Collider, [CEPC](CEPC.md)
 
-### Group members
-<br/>
-![weimin](pictures/weimin.jpg){:height="120px" width="100px"}
-<br/>
-[Weimin Song]() (Group leader, Professor)
+</br>
 
-<br/><br/>
-![liangh](pictures/liangh.jpg)
-<br/>
+</br>
+
+### Group members
+</br>
+![weimin](pictures/weimin.jpg){:height="120px" width="100px"}
+</br>
+[Weimin Song]() (Principal Investigator, Professor)
+
+
+
+</br>
 [Hao Liang]() (Graduate student)
 
-<br/><br/>
+
+
+</br>
 ![wuxh](pictures/wuxh.jpg){:height="120px" width="100px"}
-<br/>
-[Xionghao Wu]() (Undergraduate student)
+</br>
+[Xionghao Wu](group/wuxhresearch.md) (Undergraduate student)
 
-<br/><br/>
+
+
+</br>
 ![liaoyp](pictures/liaoyp.jpg){:height="120px" width="100px"}
-<br/>
-[Yipu Liao](https://liaoyp0615.github.io) (Undergraduate student)
+</br>
+[Yipu Liao](liaoyp0615.github.io) (Undergraduate student)
 
-<br/><br/>
-![cuicx](pictures/cuicx.jpg){:height="120px" width="100px"}
-<br/>
+
+
+</br>
 [Chuanxin Cui]() (Undergraduate student)
 
-<br/><br/>
-![yangjy](pictures/yangjy.jpg){:height="120px" width="100px"}
-<br/>
+
+
+</br>
 [Jiayue yang]() (Undergraduate student)
+
+
+
+</br>
+![lix](pictures/lix.jpg){:height="120px" width="100px"}
+</br>
+[Xiang Li](group/lixresearch.md) (Undergraduate student)
+
+
+
+</br>
+![zhangy](pictures/zhangy.jpg){:height="120px" width="100px"}
+</br>
+[Yang Zhang](group/zhangyresearch.md) (Undergraduate student)
+
+
+
+</br>
+![dingzz](pictures/dingzz.jpg){:height="120px" width="100px"}
+</br>
+[Zhizhong Ding](group/dingzzresearch.md) (Undergraduate student)
+
+
+
+</br>
+[Xiaopeng Xie](group/xiexpresearch.md) (Undergraduate student)
 ......
 
 
+
+</br>
+
+</br>
 
 ### Contact information
 
