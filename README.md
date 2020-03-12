@@ -1,6 +1,6 @@
 ## Introduction
 
-###### You can use the [editor on GitHub](https://github.com/weiminsong/SONGGROUP.github.io/edit/master/README.md)
+This is the webpage for Weimin Song's group.
 
 ### Research
 
@@ -49,3 +49,5 @@ Office: 314 Physics Building, Jilin University, Changchun
 Email: weimin.song@stfc.ac.uk
 
 Phone: 15201291914
+
+###### You can use the [editor on GitHub](https://github.com/weiminsong/SONGGROUP.github.io/edit/master/README.md)
