@@ -68,7 +68,7 @@ This is the webpage for Weimin Song's group.
 
 <br/>
 
-[Xiang Li](group/lixresearch.md) (Undergraduate student)  
+[Xiang Li](https://phyxiangli.github.io/) (Undergraduate student)  
 
 
 
