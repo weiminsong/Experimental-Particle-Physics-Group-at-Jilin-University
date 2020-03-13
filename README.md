@@ -14,87 +14,188 @@ This is the webpage for Weimin Song's group.
 
 ### Group members
 
-<br/>
-
-![weimin](pictures/weimin.jpg){:height="120px" width="100px"}  
-
-<br/>
-
-[Weimin Song]() (Principal Investigator, Professor)  
-
-
-
-<br/>
-
-[Hao Liang]() (Graduate student)  
-
-
-
-<br/>
-
-![wuxh](pictures/wuxh.jpg){:height="120px" width="100px"}  
-
-<br/>
-
-[Xionghao Wu](group/wuxhresearch.md) (Undergraduate student)  
-
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="pictures/weimin.jpg" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Weimin Song</h1>
+      <p><b>Principal Investigator</b></p>
+      <p><b>Professor</b></p>
+      <br/>
+      <p><a href="https://github.com/weiminsong/" target="_blank">Personal Page</a></p>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 
 <br/>
-
-![liaoyp](pictures/liaoyp.jpg){:height="120px" width="100px"}  
-
-<br/>
-
-[Yipu Liao](liaoyp0615.github.io) (Undergraduate student)  
-
-
-
-<br/>
-
-[Chuanxin Cui]() (Undergraduate student)  
-
-
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Hao Liang</h1>
+      <p><b>Graduate</b></p>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-[Jiayue yang]() (Undergraduate student)  
 
-
-
-<br/>
-
-![lix](pictures/lix.jpg){:height="120px" width="100px"}  
-
-<br/>
-
-[Xiang Li](https://phyxiangli.github.io/) (Undergraduate student)  
-
-
-
-<br/>
-
-![zhangy](pictures/zhangy.jpg){:height="120px" width="100px"}  
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="pictures/wuxh.jpg" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Xionghao Wu</h1>
+      <p><b>Undergraduate</b></p>
+      <br/>
+      <p>research on BR of channal Bs meson to tau</p>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-[Yang Zhang](group/zhangyresearch.md) (Undergraduate student)  
 
-
-
-<br/>
-
-![dingzz](pictures/dingzz.jpg){:height="120px" width="100px"}  
-
-<br/>
-
-[Zhizhong Ding](group/dingzzresearch.md) (Undergraduate student)  
-
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="pictures/liaoyp.jpg" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Yipu Liao</h1>
+      <p><b>Undergraduate</b></p>
+      <br/>
+      <p>research on BR of channal Bs meson to muon</p>
+      <br/>
+      <p><a href="https://liaoyp0615.github.io" target="_blank">Personal Page</a></p>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 
 <br/>
 
-[Xiaopeng Xie](group/xiexpresearch.md) (Undergraduate student)  
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Chuanxin Cui</h1>
+      <p><b>Undergraduate</b></p>
+      <br/>
+      <p>research on BR of channal Bs meson to muon</p>
+      <br/>
+    </td>
+  </tr>
+</table> 
+
+
+
+<br/>
+
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Jiayue Yang</h1>
+      <p><b>Undergraduate</b></p>
+      <br/>
+      <p>research on BR of channal Bs meson to muon</p>
+      <br/>
+    </td>
+  </tr>
+</table> 
+
+<br/>
+
+
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="pictures/lix.jpg" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Xiang Li</h1>
+      <p><b>Incoming PhD student at UC San Diego</b></p>
+      <br/>
+      <p><b>Undergrad at Jilin University</b></p>
+      <br/>
+      <p>Research interests: HEP-ex & HEP-ph</p>
+      <br/>
+      <p><a href="https://phyxiangli.github.io" target="_blank">Personal Page</a></p>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="pictures/zhangy.jpg" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Yang Zhang</h1>
+      <p><b>Undergraduate</b></p>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+
+<br/>
+
+
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="pictures/dingzz.jpg" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Zhizhong Ding</h1>
+      <p><b>Undergraduate</b></p>
+      <br/>
+      <p>research on energy modification of Calorimeters</p>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+
+<br/>
+
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Xiaopeng Xie</h1>
+      <p><b>Undergraduate</b></p>
+      <br/>
+      <p>research on energy modification of Calorimeters</p>
+      <br/>
+    </td>
+  </tr>
+</table>
+<br/>
+
+
 
 <br/>
 
