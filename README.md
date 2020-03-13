@@ -6,8 +6,7 @@ This is the webpage for Weimin Song's group.
 
 1. Physics analysis at [BESIII](http://bes3.ihep.ac.cn) (and at [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider), will join later)
 2. Silicon detector development
-3. Study the physics potential for Circular Electron-Positrion Collider,<a href="CEPC.md" target="_blank">CEPC</a>
-<br/>
+3. Study the physics potential for Circular Electron-Positrion Collider,[CEPC](CEPC.md)
 
 <br/>
 
