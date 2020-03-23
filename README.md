@@ -106,7 +106,7 @@ This is the webpage for Weimin Song's group.
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="" width="100%">      
+      <img src="pictures/yangjy.jpg" width="100%">      
     </td>
     <td width="75%">
       <h1>Jiayue Yang</h1>
