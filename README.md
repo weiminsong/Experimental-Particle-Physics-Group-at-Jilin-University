@@ -22,7 +22,7 @@ This is the webpage for Weimin Song's group.
       <p><b>Principal Investigator</b></p>
       <p><b>Professor</b></p>
       <br/>
-      <p><a href="https://github.com/weiminsong/" target="_blank">Personal Page</a></p>
+      <p><a href="https://inspirehep.net/author/profile/Wei.Min.Song.1" target="_blank">Personal Page</a></p>
       <br/>
     </td>
   </tr>
