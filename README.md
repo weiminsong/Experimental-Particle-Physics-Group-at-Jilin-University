@@ -191,6 +191,23 @@ This is the webpage for Weimin Song's group.
     </td>
   </tr>
 </table>
+
+
+<br/>
+
+
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Yuqi Wang</h1>
+      <p><b>Undergraduate</b></p>
+      <br/>
+    </td>
+  </tr>
+</table>
 <br/>
 
 
