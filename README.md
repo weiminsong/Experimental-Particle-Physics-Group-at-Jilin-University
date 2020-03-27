@@ -205,7 +205,7 @@ This is the webpage for Weimin Song's group.
       <h1>Yuqi Wang</h1>
       <p><b>Undergraduate</b></p>
       <br/>
-      <p><a href="https://wangyq12.github.io/wangyuqi.github.io/" target="_blank">Personal Page</a></p>
+      <p><a href="https://wangyq12.github.io/" target="_blank">Personal Page</a></p>
       <br/>
     </td>
   </tr>
