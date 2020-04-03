@@ -28,6 +28,22 @@ This is the webpage for Weimin Song's group.
   </tr>
 </table>
 
+<br/>
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Bibhuprasad Mahakud</h1>
+      <p><b>Postdoc</b></p>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 
 <br/>
 <table border="0">
