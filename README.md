@@ -53,6 +53,8 @@ This is the webpage for Weimin Song's group.
       <h1>Honghong Zhang</h1>
       <p><b>Graduate</b></p>
       <br/>
+      <p>zhanghh20@mails.jlu.edu.cn</p>
+      <br/>
     </td>
   </tr>
 </table>
