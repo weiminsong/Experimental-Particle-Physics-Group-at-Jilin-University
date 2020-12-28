@@ -178,24 +178,6 @@ This is the webpage for Weimin Song's group.
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="pictures/dingzz.jpg" width="100%">      
-    </td>
-    <td width="75%">
-      <h1>Zhizhong Ding</h1>
-      <p><b>Undergraduate</b></p>
-      <br/>
-      <p>research on energy modification of Calorimeters</p>
-      <br/>
-    </td>
-  </tr>
-</table>
-
-
-<br/>
-
-<table border="0">
-  <tr>
-    <td width="25%">
       <img src="pictures/xiexp.jpg" width="100%">      
     </td>
     <td width="75%">
