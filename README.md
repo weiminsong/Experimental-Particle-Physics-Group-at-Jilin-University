@@ -44,8 +44,51 @@ This is the webpage for Weimin Song's group.
 
 <br/>
 
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Honghong Zhang</h1>
+      <p><b>Graduate</b></p>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
+
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Wenyu Sun</h1>
+      <p><b>Graduate</b></p>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Caijing Guo</h1>
+      <p><b>Graduate</b></p>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <table border="0">
   <tr>
     <td width="25%">
@@ -97,32 +140,38 @@ This is the webpage for Weimin Song's group.
   </tr>
 </table>
 
-
 <br/>
-
-
 
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="pictures/lix.jpg" width="100%">      
+      <img src="" width="100%">      
     </td>
     <td width="75%">
-      <h1>Xiang Li</h1>
-      <p><b>Incoming PhD student at UC San Diego</b></p>
+      <h1>Haolin Yang</h1>
+      <p><b>Undergraduate</b></p>
       <br/>
-      <p><b>Undergrad at Jilin University</b></p>
-      <br/>
-      <p>Research interests: HEP-ex & HEP-ph</p>
-      <br/>
-      <p><a href="https://phyxiangli.github.io" target="_blank">Personal Page</a></p>
+    </td>
+  </tr>
+</table>
+
+
+<br/>
+
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="" width="100%">      
+    </td>
+    <td width="75%">
+      <h1>Zhaoling Zhang</h1>
+      <p><b>Undergraduate</b></p>
       <br/>
     </td>
   </tr>
 </table>
 
 <br/>
-
 
 <table border="0">
   <tr>
