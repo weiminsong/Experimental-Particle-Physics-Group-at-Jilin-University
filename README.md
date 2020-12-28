@@ -69,7 +69,7 @@ This is the webpage for Weimin Song's group.
     </td>
     <td width="75%">
       <h1>Xionghao Wu</h1>
-      <p><b>Undergraduate</b></p>
+      <p><b>Graduate</b></p>
       <br/>
       <p>research on BR of channal Bs meson to tau</p>
       <br/>
@@ -100,41 +100,6 @@ This is the webpage for Weimin Song's group.
 
 <br/>
 
-<table border="0">
-  <tr>
-    <td width="25%">
-      <img src="pictures/cuicx.jpg" width="100%">      
-    </td>
-    <td width="75%">
-      <h1>Chuanxin Cui</h1>
-      <p><b>Undergraduate</b></p>
-      <br/>
-      <p>research on BR of channal Bs meson to muon</p>
-      <br/>
-    </td>
-  </tr>
-</table> 
-
-
-
-<br/>
-
-<table border="0">
-  <tr>
-    <td width="25%">
-      <img src="pictures/yangjy.jpg" width="100%">      
-    </td>
-    <td width="75%">
-      <h1>Jiayue Yang</h1>
-      <p><b>Undergraduate</b></p>
-      <br/>
-      <p>research on BR of channal Bs meson to muon</p>
-      <br/>
-    </td>
-  </tr>
-</table> 
-
-<br/>
 
 
 <table border="0">
@@ -155,41 +120,6 @@ This is the webpage for Weimin Song's group.
     </td>
   </tr>
 </table>
-
-<br/>
-
-<table border="0">
-  <tr>
-    <td width="25%">
-      <img src="pictures/zhangy.jpg" width="100%">      
-    </td>
-    <td width="75%">
-      <h1>Yang Zhang</h1>
-      <p><b>Undergraduate</b></p>
-      <br/>
-    </td>
-  </tr>
-</table>
-
-
-<br/>
-
-
-<table border="0">
-  <tr>
-    <td width="25%">
-      <img src="pictures/xiexp.jpg" width="100%">      
-    </td>
-    <td width="75%">
-      <h1>Xiaopeng Xie</h1>
-      <p><b>Undergraduate</b></p>
-      <br/>
-      <p>research on energy modification of Calorimeters</p>
-      <br/>
-    </td>
-  </tr>
-</table>
-
 
 <br/>
 
